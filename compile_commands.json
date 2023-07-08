@@ -1,0 +1,5 @@
+[{
+  "file": "C:\\Users\\CA-BhupeshR\\OneDrive - CrossAsyst Infotech Private Ltd\\Desktop\\CPP\\helloworld.cpp",
+  "directory": "C:\\Users\\CA-BhupeshR\\OneDrive - CrossAsyst Infotech Private Ltd\\Desktop\\CPP",
+  "command": "clang++ -c \"C:\\Users\\CA-BhupeshR\\OneDrive - CrossAsyst Infotech Private Ltd\\Desktop\\CPP\\helloworld.cpp\" -o \"C:\\Users\\CA-BhupeshR\\OneDrive - CrossAsyst Infotech Private Ltd\\Desktop\\CPP\\helloworld.cpp\".o  -I\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\include\" -I\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include\" -I\"C:\\Program Files (x86)\\Windows Kits\\10\\include\\10.0.22000.0\\ucrt\" -I\"C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22000.0\\\\um\" -I\"C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22000.0\\\\shared\" -I\"C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22000.0\\\\winrt\" -I\"C:\\Program Files (x86)\\Windows Kits\\10\\\\include\\10.0.22000.0\\\\cppwinrt\" -I. -I.  -g -Wall"
+ }]
